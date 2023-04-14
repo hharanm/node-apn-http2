@@ -15,7 +15,7 @@
     "node": ">= 8.8.1"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.1.0"
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "@types/jsonwebtoken": "^7.2.3",
